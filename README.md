@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi! I’m Kunjal B., a Cloud Native Software Engineer and AI enthusiast passionate about building innovative, scalable, and user-centric applications. I enjoy solving real-world problems at the intersection of AI, IoT, and cloud technologies.<br><br>I have hands-on experience with:<br><br>Programming & Development: Java, React, Node.js<br><br>AI & Machine Learning: Computer vision, smart assistants<br><br>Cloud & DevOps: Building cloud-native solutions and CI/CD pipelines<br><br>I’m always eager to learn, collaborate, and contribute to exciting projects that make an impact. 🚀
+💡 I build things with code… and occasionally break them too.  
+⚙️ Cloud-native developer exploring AI and full-stack systems.  
+📊 Consistent with DSA (even when it's not consistent with me).  
+🚀 On a mission to make machines smarter—and myself smarter along the way.
 
 
 ## 🌐 Socials:
