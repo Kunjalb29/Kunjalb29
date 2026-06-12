@@ -11,12 +11,6 @@
 </div>
 ### 🚀 Turning caffeine into code, bugs into features, and "it works on my machine" into production deployments.
 
-### 🌐 Portfolio
-
-🔗 **Live Portfolio:** https://kunjal-baseshankar-portfolio.vercel.app/
-
-> Building today. Learning forever. Shipping whenever possible. 🚀
-
 ---
 
 # 💫 About Me
