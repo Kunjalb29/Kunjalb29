@@ -1,9 +1,22 @@
-# 💫 About Me:
-💡 I build things with code… and occasionally break them too.  
-⚙️ Cloud-native developer exploring AI and full-stack systems.  
-📊 Consistent with DSA (even when it's not consistent with me).  
-🚀 On a mission to make machines smarter—and myself smarter along the way.
+# 👋 Hey, I'm Kunjal!
 
+### 🚀 Turning caffeine into code, bugs into features, and "it works on my machine" into production deployments.
+
+### 🌐 Portfolio
+
+🔗 **Live Portfolio:** https://kunjal-baseshankar-portfolio.vercel.app/
+
+> Building today. Learning forever. Shipping whenever possible. 🚀
+
+---
+
+# 💫 About Me
+
+💡 I build things with code... and occasionally create new bugs to keep life interesting.
+⚙️ Cloud-native developer exploring AI, full-stack engineering, and scalable systems.
+📊 Consistent with DSA (even when DSA isn't consistent with me).
+🚀 On a mission to make machines smarter—and hopefully myself too.
+🌱 Currently learning, building, failing, fixing, and repeating.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunjal-baseshankar-16a174292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunjalb882@gmail.com) 
