@@ -1,5 +1,14 @@
-# 👋 Hey, I'm Kunjal!
+<div align="center">
 
+# 👋 Hey, I'm Kunjal
+
+### 🚀 Building AI, Cloud & Full-Stack Solutions One Commit at a Time
+
+<img src="https://komarev.com/ghpvc/?username=Kunjalb29&label=PROFILE+VIEWS&color=blue&style=for-the-badge"/>
+
+### ☕ Professional Bug Creator | Amateur Bug Fixer
+
+</div>
 ### 🚀 Turning caffeine into code, bugs into features, and "it works on my machine" into production deployments.
 
 ### 🌐 Portfolio
